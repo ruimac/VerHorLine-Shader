@@ -2,8 +2,8 @@
 Cinema 4D Shader to create lines
 
 
-Sometimes we just need a simple line as a texture for a material./n
-And that line could be vertical or horizontal./n
+Sometimes we just need a simple line as a texture for a material.#n
+And that line could be vertical or horizontal.#n
 And in any location.
 
 And any width.
